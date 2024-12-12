@@ -58,7 +58,7 @@ Repeat Passenger Rate (RPR):
 Highest: 42.9% (Surat).
 Lowest: 11.2% (Mysore).
 Trip Target Achievement:
-Overall: 426K trips achieved vs. 852K targeted (50% gap).
+Overall: 242.9K trips achieved vs. 432K targeted, with a 43.77% gap.
 Revenue Peak Months:
 Jaipur peaked in February with ₹7.7M revenue (21% contribution).
 Mysore underperformed with the lowest peak of ₹745K in May.
