@@ -25,11 +25,17 @@ Evaluating city-specific revenue contributions and repeat passenger retention ra
 **SQL Analysis:**
 
 City-Level Metrics:
+
 Total trips, revenue, average fare per trip, and percentage contribution by city.
+
 Monthly Performance:
+
 Trips achieved vs. targets and revenue growth per city.
+
 Repeat Passenger Behavior:
+
 Percentage distribution of repeat trips (2 to 10 trips).
+
 Revenue by Month:
 Identified peak months contributing the highest revenue per city.
 
@@ -52,15 +58,20 @@ https://app.powerbi.com/groups/me/reports/1005ea99-11cb-496b-8e53-bdefb4bd52fc/5
 **Results**  **Key Metrics**
 
 Total Trips: 426,000 trips achieved across all cities.
+
 Revenue: Jaipur led with the highest revenue contribution at ₹7.7M (20.8% of total).
+
 Average Passenger Ratings:
 Highest: 8.98 (new passengers in Kochi).
 Lowest: 5.97 (repeat passengers in Vadodara).
+
 Repeat Passenger Rate (RPR):
 Highest: 42.9% (Surat).
 Lowest: 11.2% (Mysore).
+
 Trip Target Achievement:
 Overall: 426K trips achieved vs. 429K targeted (0.7% gap).
+
 Revenue Peak Months:
 Jaipur peaked in February with ₹7.7M revenue (21% contribution).
 Mysore underperformed with the lowest peak of ₹745K in May.
