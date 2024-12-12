@@ -47,6 +47,8 @@ Correlated revenue with factors like average fare and trip demand.
 
 Interactive visualizations for trip performance, revenue contributions, passenger satisfaction, and targets achieved.
 
+https://app.powerbi.com/groups/me/reports/1005ea99-11cb-496b-8e53-bdefb4bd52fc/19fcf45f0964153d5adb?experience=power-bi
+
 **Results**  **Key Metrics**
 
 Total Trips: 426,000 trips achieved across all cities.
