@@ -1,0 +1,11 @@
+,city_id,peak_month,peak_trip_count,city_name
+0,AP01,2024-04,4938,Visakhapatnam
+1,CH01,2024-02,7387,Chandigarh
+2,GJ01,2024-04,9831,Surat
+3,GJ02,2024-04,5941,Vadodara
+4,KA01,2024-05,3007,Mysore
+5,KL01,2024-05,10014,Kochi
+6,MP01,2024-05,7787,Indore
+7,RJ01,2024-02,15872,Jaipur
+8,TN01,2024-03,3680,Coimbatore
+9,UP01,2024-02,12060,Lucknow
