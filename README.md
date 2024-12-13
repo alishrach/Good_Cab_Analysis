@@ -97,3 +97,5 @@ Adjust Performance Targets:
 
 Reassess trip and passenger targets for cities consistently underperforming (e.g., Mysore).
 Set realistic goals based on historical data and city demographics.
+
+video presentation link: https://drive.google.com/file/d/1rAvl6OM-sg1Xt_n0TLTiJJi6hxtujhyY/view?usp=drive_link
